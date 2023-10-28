@@ -1,3 +1,4 @@
 
 First line of merge.txt
 Line3
+Line3 fearture1
