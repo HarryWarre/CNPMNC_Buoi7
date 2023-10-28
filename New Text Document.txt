@@ -1,2 +1,2 @@
 
-Feature1 - This is the second line
+First line of merge.txt
